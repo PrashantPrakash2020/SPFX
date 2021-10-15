@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "recruitment-app",
+    "id": "f32baecf-1df7-40cf-a1c3-fb8e660924f4",
+    "version": "1.0.3.4",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/recruitment-app.sppkg"
+  }
+}
